@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Max-CoderBoi
+- 👋 Hi, I’m @Akash.patil
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning DSA IN C++
 
