@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Akash.patil
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning DSA IN C++
-
 - 📫 How to reach me :akashpatil.ap1610@gmail.com
 - 😄 Pronouns: ...he/him/his
 
