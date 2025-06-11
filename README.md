@@ -10,12 +10,6 @@
 
 I'm a MERN stack developer who loves building full-stack web applications from scratch and turning ideas into functional, scalable products.
 
----
-## 🔗 Coding Profiles
-
-<a href="https://leetcode.com/u/Akash_Patil_2005/" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" width="40" alt="LeetCode Profile"/>
-</a>
 
 
 ---
