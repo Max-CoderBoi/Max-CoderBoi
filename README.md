@@ -50,18 +50,16 @@ I'm a MERN Stack Developer who loves turning ideas into fully functional, scalab
   <img src="https://github-readme-stats.vercel.app/api?username=Max-CoderBoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Max-CoderBoi&theme=dark&hide_border=false" width="48%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-CoderBoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-CoderBoi&theme=dark&hide_border=false&layout=compact" width="48%"/>
 </p>
-
-
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akash-patil-007/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:patilakashdev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akash-patil-544a62301"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:akashpatil.ap1610@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Max-CoderBoi"><img src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
