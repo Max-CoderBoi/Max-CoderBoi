@@ -49,16 +49,7 @@ I'm a full-stack web developer passionate about building modern, high-performanc
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Max-CoderBoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Max-CoderBoi&theme=dark&hide_border=false" width="48%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-CoderBoi&theme=dark&hide_border=false&layout=compact" width="48%"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
