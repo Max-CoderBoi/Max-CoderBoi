@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Akash Patil</span></h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Cloud & DevOps Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://akashpatil1610.vercel.app/">
@@ -12,12 +12,13 @@
 
 ## 🌟 About Me
 
-I'm a passionate full-stack developer crafting clean, efficient, and scalable solutions. I love building modern web apps, exploring DevOps, and pushing boundaries in cloud technologies.
+I'm a passionate full-stack developer crafting clean, efficient, and scalable solutions.  
+I enjoy building modern web applications, exploring new frameworks, and solving challenging coding problems.
 
-- 🔭 Currently working on scalable web applications
-- 🌱 Deep diving into AWS, CI/CD, and Kubernetes
-- 👯 Open to collaborations on impactful projects
-- 💬 Ask me about JavaScript, React, Node.js, or DevOps
+- 🔭 Currently working on scalable and user-friendly web applications  
+- 🌱 Learning advanced JavaScript concepts and performance optimization  
+- 👯 Open to collaborations on impactful projects  
+- 💬 Ask me about JavaScript, React, Node.js, or anything full-stack  
 
 
 ---
