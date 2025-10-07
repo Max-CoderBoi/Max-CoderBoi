@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Akash Patil</span></h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | Problem Solver | GenAI</h3>
 
 <p align="center">
   <a href="https://akashpatil1610.vercel.app/">
