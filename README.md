@@ -14,6 +14,8 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ```javascript
 const akash = {
     location: "Mumbai, Maharashtra 📍",
@@ -29,41 +31,57 @@ const akash = {
 💡 **Always Learning:** Advanced JavaScript, System Design, and AI/ML Integration  
 🤝 **Open to:** Collaborations, Open Source Contributions, and Internship Opportunities
 
+<br clear="both">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> What I'm Up To
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire"> What I'm Currently Working On
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-</div>
+<img align="right" alt="Robot" width="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
-      <b>🤖 Building</b><br>
-      <sub>Autonomous AI agents with<br>reasoning & tool-use capabilities</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
-      <b>🔬 Exploring</b><br>
-      <sub>RAG pipelines, multi-agent<br>systems & LLM orchestration</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-      <b>🚀 Tech Stack</b><br>
-      <sub>LangChain, Gemini AI<br>Pinecone, Vector Embeddings</sub>
-    </td>
-  </tr>
-</table>
+### 🤖 **Building Autonomous AI Agents**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
+I'm developing intelligent AI agents that can reason, make decisions, and use tools autonomously. These agents leverage advanced language models to perform complex tasks with minimal human intervention.
+
+**Key Focus Areas:**
+- Implementing multi-step reasoning chains with LangChain
+- Designing tool-use capabilities for API integrations
+- Creating context-aware decision-making systems
+- Building self-correcting agent workflows
+
+<br>
+
+<img align="right" alt="Database" width="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+
+### 🔬 **Exploring RAG Pipelines & Vector Databases**
+
+Deep diving into Retrieval-Augmented Generation to build knowledge-intensive AI applications that combine the power of large language models with custom data sources.
+
+**Current Experiments:**
+- Vector embeddings with Pinecone & ChromaDB
+- Multi-agent collaboration systems
+- LLM orchestration patterns
+- Hybrid search implementations (semantic + keyword)
+
+<br>
+
+<img align="right" alt="Web Development" width="200" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+
+### 🚀 **Full-Stack Development with Modern Stack**
+
+Building production-ready web applications with a focus on performance, scalability, and user experience. Integrating AI capabilities into traditional web apps.
+
+**Tech Stack in Action:**
+- Next.js 14 with App Router & Server Components
+- Gemini AI & Groq for real-time AI features
+- MongoDB, Redis for data persistence & caching
+- Docker containerization for deployment
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+
+
 
 <table align="center">
   <tr>
@@ -147,9 +165,13 @@ const akash = {
   
 </div>
 
+<br clear="both">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Analytics
+
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Max-CoderBoi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
@@ -164,11 +186,15 @@ const akash = {
 
 ## 📈 Coding Stats
 
+<img align="right" alt="Penguin" width="150" src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44c9-9713-c6f2530c5c14.gif">
+
 <div align="center">
   
   [![LeetCode Stats](https://leetcard.jacoblin.cool/Akash_Patil_2005?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/u/Akash_Patil_2005/)
   
 </div>
+
+<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -212,6 +238,9 @@ I'm always interested in working on exciting projects and connecting with fellow
   
   <br>
   
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+  <br>
+  
   
 </div>
