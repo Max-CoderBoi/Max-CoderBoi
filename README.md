@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 ```javascript
 const akash = {
@@ -37,46 +37,27 @@ const akash = {
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire"> What I'm Currently Working On
 
-<img align="right" alt="Robot" width="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🤖 **Building Autonomous AI Agents**
-
-I'm developing intelligent AI agents that can reason, make decisions, and use tools autonomously. These agents leverage advanced language models to perform complex tasks with minimal human intervention.
-
-**Key Focus Areas:**
-- Implementing multi-step reasoning chains with LangChain
-- Designing tool-use capabilities for API integrations
-- Creating context-aware decision-making systems
-- Building self-correcting agent workflows
-
-<br>
-
-<img align="right" alt="Database" width="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
-
-### 🔬 **Exploring RAG Pipelines & Vector Databases**
-
-Deep diving into Retrieval-Augmented Generation to build knowledge-intensive AI applications that combine the power of large language models with custom data sources.
-
-**Current Experiments:**
-- Vector embeddings with Pinecone & ChromaDB
-- Multi-agent collaboration systems
-- LLM orchestration patterns
-- Hybrid search implementations (semantic + keyword)
-
-<br>
-
-<img align="right" alt="Web Development" width="200" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
-
-### 🚀 **Full-Stack Development with Modern Stack**
-
-Building production-ready web applications with a focus on performance, scalability, and user experience. Integrating AI capabilities into traditional web apps.
-
-**Tech Stack in Action:**
-- Next.js 14 with App Router & Server Components
-- Gemini AI & Groq for real-time AI features
-- MongoDB, Redis for data persistence & caching
-- Docker containerization for deployment
-
+```javascript
+const currentFocus = {
+    aiDevelopment: {
+        project: "Autonomous AI Agents 🤖",
+        tech: ["LangChain", "Multi-step Reasoning", "Tool Integration"],
+        goal: "Building agents that reason and act independently"
+    },
+    research: {
+        exploring: "RAG Pipelines & Vector Databases 🔬",
+        stack: ["Pinecone", "ChromaDB", "Multi-agent Systems"],
+        focus: "Knowledge-intensive AI applications"
+    },
+    webDev: {
+        building: "AI-Powered Full-Stack Apps 🚀",
+        using: ["Next.js 14", "Gemini AI", "MongoDB", "Docker"],
+        specialty: "Integrating AI into production web apps"
+    }
+};
+```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
