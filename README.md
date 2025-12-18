@@ -28,7 +28,20 @@ const akash = {
 
 🎯 **Current Status:** Smart India Hackathon 2025 Finalist | Building AI-powered web solutions  
 💡 **Always Learning:** Advanced JavaScript, System Design, and AI/ML Integration  
-🤝 **Open to:** Collaborations, Open Source Contributions, and Freelance Projects
+🤝 **Open to:** Collaborations, Open Source Contributions, and Internship Opportunities
+
+---
+
+## 🎯 What I'm Up To
+
+```typescript
+const currentFocus = {
+  building: "Autonomous AI agents with reasoning & tool-use capabilities",
+  exploring: "RAG pipelines, multi-agent systems, and LLM orchestration",
+  tech: ["LangChain", "Gemini AI", "Pinecone", "Vector Embeddings"],
+  goal: "Mastering agentic AI and building intelligent systems 🚀"
+};
+```
 
 ---
 
@@ -141,6 +154,16 @@ const akash = {
 
 ---
 
+## 📈 Coding Stats
+
+<div align="center">
+  
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/Akash_Patil_2005?theme=dark&font=Ubuntu)](https://leetcode.com/u/Akash_Patil_2005/)
+  
+</div>
+
+---
+
 ## 🎯 What I'm Up To
 
 ```typescript
@@ -165,7 +188,6 @@ I'm always interested in working on exciting projects and connecting with fellow
 - 💼 Collaboration opportunities
 - 🚀 Open source contributions
 - 💡 Tech discussions
-- 🎯 Project consultations
 
 <br>
 
