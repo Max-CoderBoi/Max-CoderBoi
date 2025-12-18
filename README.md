@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Akash+Patil;Full-Stack+Developer+%7C+Problem+Solver;Building+AI-Powered+Web+Solutions" alt="Typing SVG" />
 </div>
 
@@ -12,7 +18,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
 
 ```javascript
 const akash = {
@@ -29,33 +36,41 @@ const akash = {
 💡 **Always Learning:** Advanced JavaScript, System Design, and AI/ML Integration  
 🤝 **Open to:** Collaborations, Open Source Contributions, and Internship Opportunities
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> What I'm Up To
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> What I'm Up To
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+</div>
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5082a36325c83a29c614c29/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="400" height="250">
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+      <b>🤖 Building</b><br>
+      <sub>Autonomous AI agents with<br>reasoning & tool-use capabilities</sub>
     </td>
-    <td align="center" width="50%">
-      
-```typescript
-const currentFocus = {
-  building: "Autonomous AI agents with reasoning & tool-use capabilities",
-  exploring: "RAG pipelines, multi-agent systems, and LLM orchestration",
-  tech: ["LangChain", "Gemini AI", "Pinecone", "Vector Embeddings"],
-  goal: "Mastering agentic AI and building intelligent systems 🚀"
-};
-```
-      
-</td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+      <b>🔬 Exploring</b><br>
+      <sub>RAG pipelines, multi-agent<br>systems & LLM orchestration</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+      <b>🚀 Tech Stack</b><br>
+      <sub>LangChain, Gemini AI<br>Pinecone, Vector Embeddings</sub>
+    </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="30"> Tech Stack
 
 <table align="center">
   <tr>
@@ -141,7 +156,7 @@ const currentFocus = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Max-CoderBoi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
@@ -152,9 +167,13 @@ const currentFocus = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-CoderBoi&theme=react" alt="Contribution Graph"/>
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Coding Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> Coding Stats
 
 <div align="center">
   
@@ -162,11 +181,15 @@ const currentFocus = {
   
 </div>
 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Let's Connect!
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Let's Connect!
 
-<div align="center">
+<img align="right" alt="Koala" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+
+<div align="left">
 
 I'm always interested in working on exciting projects and connecting with fellow developers!
 
@@ -175,22 +198,33 @@ I'm always interested in working on exciting projects and connecting with fellow
 - 💼 Collaboration opportunities
 - 🚀 Open source contributions
 - 💡 Tech discussions
+- 🎯 Internship opportunities
 
 <br>
 
 <a href="https://www.linkedin.com/in/akash-patil-544a62301">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="mailto:akashpatil.ap1610@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
+
+<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=Max-CoderBoi&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="28"> Thanks for visiting! Feel free to ⭐ repositories you find interesting!
-
+  <br><br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+  
+  ### Thanks for visiting! Feel free to ⭐ repositories you find interesting!
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+  
 </div>
