@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Akash+Patil;Full-Stack+Developer+%7C+Problem+Solver;Building+AI-Powered+Web+Solutions" alt="Typing SVG" />
 </div>
@@ -15,8 +13,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
-
-
 
 ```javascript
 const akash = {
@@ -212,10 +208,10 @@ I'm always interested in working on exciting projects and connecting with fellow
   
   <br><br>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-  
   ### Thanks for visiting! Feel free to ⭐ repositories you find interesting!
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+  <br>
+  
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
 </div>
