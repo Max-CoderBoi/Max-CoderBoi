@@ -116,7 +116,7 @@ const currentFocus = {
       <br>Postman
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="65" height="65" alt="LangChain" />
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="65" height="65" alt="LangChain" />
       <br>LangChain
     </td>
   </tr>
@@ -154,16 +154,6 @@ const currentFocus = {
 
 ---
 
-## 📈 Coding Stats
-
-<div align="center">
-  
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Akash_Patil_2005?theme=dark&font=Ubuntu)](https://leetcode.com/u/Akash_Patil_2005/)
-  
-</div>
-
----
-
 ## 🎯 What I'm Up To
 
 ```typescript
@@ -174,17 +164,18 @@ const currentFocus = {
   goal: "Mastering agentic AI and building intelligent systems 🚀"
 };
 ```
-```
+
 
 ---
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  
-I'm always interested in working on exciting projects and connecting with fellow developers!  
+
+I'm always interested in working on exciting projects and connecting with fellow developers!
 
 **Feel free to reach out for:**
+
 - 💼 Collaboration opportunities
 - 🚀 Open source contributions
 - 💡 Tech discussions
