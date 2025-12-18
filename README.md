@@ -126,26 +126,7 @@ const akash = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-CoderBoi&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Max-CoderBoi&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| Achievement | Details |
-|------------|---------|
-| 🥇 **SIH 2025 Finalist** | Selected among top teams nationally for Grand Finale in Coimbatore |
-| 🎓 **Academic Excellence** | 97.21% in Diploma (34th rank across Maharashtra) |
-| 💰 **Sponsorship Head** | Raised ₹2.5+ lakh for department activities |
-| 🤖 **Robotics Enthusiast** | Built line-following robot with IR sensors |
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-CoderBoi&theme=react" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -154,7 +135,7 @@ const akash = {
 
 <div align="center">
   
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Max-CoderBoi?theme=dark&font=Ubuntu&ext=activity)](https://leetcode.com/Max-CoderBoi)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/Akash_Patil_2005?theme=dark&font=Ubuntu&ext=activity)](https://leetcode.com/u/Akash_Patil_2005/)
   
 </div>
 
@@ -163,43 +144,13 @@ const akash = {
 ## 🎯 What I'm Up To
 
 ```typescript
-interface AgenticAIDeveloper {
-  focus: string[];
-  building: string[];
-  exploring: string[];
-  technologies: {
-    llms: string[];
-    frameworks: string[];
-    vectorDbs: string[];
-  };
-}
-
-const currentWork: AgenticAIDeveloper = {
-  focus: [
-    "Building autonomous AI agents that can reason and act",
-    "RAG pipelines for intelligent document understanding",
-    "Multi-agent systems for complex problem solving"
-  ],
-  building: [
-    "LangChain-powered agentic workflows",
-    "Context-aware AI assistants with memory",
-    "Tool-using agents that interact with APIs"
-  ],
-  exploring: [
-    "Agent orchestration patterns",
-    "Prompt engineering techniques",
-    "Vector embeddings and semantic search",
-    "LLM fine-tuning and optimization"
-  ],
-  technologies: {
-    llms: ["Gemini", "Groq", "Grok", "GPT"],
-    frameworks: ["LangChain", "LangGraph", "CrewAI"],
-    vectorDbs: ["Pinecone", "Chroma", "FAISS"]
-  }
+const currentFocus = {
+  building: "Autonomous AI agents with reasoning & tool-use capabilities",
+  exploring: "RAG pipelines, multi-agent systems, and LLM orchestration",
+  tech: ["LangChain", "Gemini AI", "Pinecone", "Vector Embeddings"],
+  goal: "Mastering agentic AI and building intelligent systems 🚀"
 };
-
-// Always learning, always building 🚀
-console.log("Open to collaborating on agentic AI projects!");
+```
 ```
 
 ---
