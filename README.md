@@ -91,8 +91,8 @@ const akash = {
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
-      <br>Tailwind CSS
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
@@ -103,8 +103,8 @@ const akash = {
       <br>Postman
     </td>
     <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-      <br>VS Code
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="65" height="65" alt="LangChain" />
+      <br>LangChain
     </td>
   </tr>
 </table>
@@ -112,7 +112,7 @@ const akash = {
 <div align="center">
   
   **AI/ML Tools:** LangChain • Pinecone • Gemini AI • Groq • RAG Pipeline  
-  **Other Skills:** Linux • Google Colab • Kaggle • Judge0 • Cloudinary
+  **Other Skills:** Linux • Google Colab • Kaggle • Judge0 • Cloudinary • Tailwind CSS
   
 </div>
 
@@ -135,7 +135,7 @@ const akash = {
 
 <div align="center">
   
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Akash_Patil_2005?theme=dark&font=Ubuntu&ext=activity)](https://leetcode.com/u/Akash_Patil_2005/)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/Akash_Patil_2005?theme=dark&font=Ubuntu)](https://leetcode.com/u/Akash_Patil_2005/)
   
 </div>
 
@@ -159,20 +159,20 @@ const currentFocus = {
 
 <div align="center">
   
-  I'm always interested in working on exciting projects and connecting with fellow developers!  
-  
-  **Feel free to reach out for:**
-  - 💼 Collaboration opportunities
-  - 🚀 Open source contributions
-  - 💡 Tech discussions
-  - 🎯 Project consultations
-  
-  <br>
-  
-  <a href="https://www.linkedin.com/in/akash-patil-544a62301">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
+I'm always interested in working on exciting projects and connecting with fellow developers!  
+
+**Feel free to reach out for:**
+- 💼 Collaboration opportunities
+- 🚀 Open source contributions
+- 💡 Tech discussions
+- 🎯 Project consultations
+
+<br>
+
+<a href="https://www.linkedin.com/in/akash-patil-544a62301">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 </div>
 
 ---
@@ -180,7 +180,7 @@ const currentFocus = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Max-CoderBoi&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   
-  ### ⭐ Don't forget to star repositories you find interesting!
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+### ⭐ Don't forget to star repositories you find interesting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
 </div>
